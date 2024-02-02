@@ -3,4 +3,5 @@
 fun main() {
     val calculator = Calculator()
     calculator.showMenu()
+    calculator.
 }

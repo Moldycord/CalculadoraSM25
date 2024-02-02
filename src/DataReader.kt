@@ -7,8 +7,8 @@ class DataReader {
     fun readDouble(): Double = readln().toDouble()
 
     /* fun readInt(): Int {
-         return readln().toInt()
-     } */
+          return readln().toInt()
+      } */
 
     //  fun getName(): String = "Juan"
 
